@@ -1,4 +1,4 @@
-apt-get install yarn
+npm install --global yarn
 yarn install
 yarn db:start
 yarn db:migrate
