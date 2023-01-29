@@ -1,4 +1,4 @@
-#npm install --global yarn
+sudo npm install --global yarn
 cd apps/api
 node -v
 yarn --version
