@@ -6,4 +6,4 @@ yarn install
 yarn db:start
 yarn db:migrate
 yarn build
-yarn dev
+yarn dev   5432
